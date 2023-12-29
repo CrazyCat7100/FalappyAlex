@@ -1,0 +1,13 @@
+#myCanvas {
+    border: 5px solid black;
+    border-radius: 30px;
+    background-image: url(background.png);
+    position: absolute;
+    left: calc(50% - 200px);
+    top: calc(50% - 250px);
+  }
+
+body {
+    background-color: lightblue;
+}
+  
